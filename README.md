@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinand Arun</h1>
 <h3 align="center">I’m not a great programmer; I’m just a good programmer with great habits</h3>
-<img align="right" alt="Coding" width="400" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
+<img align="right" alt="Coding" width="400" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gi">
 
 - 🔭 I’m an **Intern at Brototype**
 
