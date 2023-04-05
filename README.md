@@ -10,7 +10,7 @@
 
 - 💬 Feel free to discuss about **Go**,
 
-- 📫 How to reach me **kannangt100@gmail.com**
+- 📫 How to reach me **kannangt100@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
