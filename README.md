@@ -31,7 +31,7 @@ Postgres     8 mins          ▓░░░░░░░░░░░░░░░░
 TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->  
 
 
 
