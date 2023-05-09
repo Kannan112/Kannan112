@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
 
 - 🔭 I’m an **Intern at Brototype**
-
+- 
 - 🌱 Enthusiastic to Learn **new technologies**
 
 - 👯 I’m a **Golang Developer** 
