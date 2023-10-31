@@ -6,7 +6,7 @@ d<h1 align="center">Hi 👋, I'm Abhinand Arun</h1>
 
 - 🌱 Enthusiastic to Learn **new technologies**
  
-- 👯 I’m a **Golang Developer** 
+- 👯 I’m a **Golang Developer**  
 
 - 💬 Feel free to discuss about **Go**,
  
