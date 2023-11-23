@@ -19,17 +19,6 @@
 <!--START_SECTION:waka-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannan112&theme=tokyonight" />
-```text
-
-Go           15 hrs 26 mins  ██████████████████░░░░░░   71.60 %
-Python       58 mins         ████░░░░░░░░░░░░░░░░░░░░   15.84 %
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Postgres     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-```
-
-<!--END_SECTION:waka-->  
 
 
 
