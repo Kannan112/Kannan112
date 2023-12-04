@@ -10,8 +10,3 @@
 
 - 💬 Feel free to discuss about **Go**,
  
-- 📫 How to reach me **kannangt100@gmail.com*
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannan112&show_icons=true&locale=en&layout=compact" alt="kannan112" /></p>
-
