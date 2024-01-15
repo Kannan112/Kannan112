@@ -5,4 +5,4 @@
       more about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
 - 📫 reach me at abhinandarun11@gmail.com 
 
-##<img align="top" alt="Coding" width="300" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
+##<img align="right" alt="Coding" width="10" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
