@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
+<img align="top" alt="Coding" width="300" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
   
 - 👋 Hi, I’m @abhinand  : )
 - 👀 I’m interested in software development 🥳
