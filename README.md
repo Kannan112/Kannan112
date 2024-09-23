@@ -4,3 +4,6 @@
 - 🌱 I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn
       more about developing scalable distributed systems, and cares about writing readable as well as maintainable code.
 - 📫 reach me at abhinandarun11@gmail.com 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kannan112&label=Profile%20Views&pretty=false" />
+</a>
